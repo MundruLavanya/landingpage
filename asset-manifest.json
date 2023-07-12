@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.d35cfad4.css",
+    "main.js": "/landingpage/static/js/main.4d90ece5.js",
+    "static/js/787.66b477fd.chunk.js": "/landingpage/static/js/787.66b477fd.chunk.js",
+    "static/media/photography8.jpeg": "/landingpage/static/media/photography8.8860a5f14a390d92badd.jpeg",
+    "static/media/photography7.jpeg": "/landingpage/static/media/photography7.dffd84a6642458323e14.jpeg",
+    "static/media/photography13.jpeg": "/landingpage/static/media/photography13.5b6950a6f82ac8633371.jpeg",
+    "static/media/photography10.jpeg": "/landingpage/static/media/photography10.4e1e54ae4f5ec9566986.jpeg",
+    "static/media/photography3.jpeg": "/landingpage/static/media/photography3.1d3a5cb8da30ddf2cdcf.jpeg",
+    "static/media/photography2.jpeg": "/landingpage/static/media/photography2.118042bc55e9f950af6d.jpeg",
+    "static/media/photography5.jpeg": "/landingpage/static/media/photography5.237af4aa5ebeb867c370.jpeg",
+    "static/media/photography4.jpeg": "/landingpage/static/media/photography4.e07675d3e6fc89d6b626.jpeg",
+    "static/media/photography9.jpeg": "/landingpage/static/media/photography9.fb88380c6448fd67ef5b.jpeg",
+    "static/media/photography6.jpeg": "/landingpage/static/media/photography6.e2914a1ae611c03f9492.jpeg",
+    "static/media/photography.jpeg": "/landingpage/static/media/photography.381adbaafd066f0e51f9.jpeg",
+    "static/media/people-5.jpg": "/landingpage/static/media/people-5.97faa5502d7f1c6dbdfc.jpg",
+    "static/media/people-2.jpg": "/landingpage/static/media/people-2.f90750fce477a6bf5250.jpg",
+    "static/media/people-9.jpg": "/landingpage/static/media/people-9.44f0849a64b96a6a8475.jpg",
+    "static/media/people-10.jpg": "/landingpage/static/media/people-10.63845bdfa28515025dc1.jpg",
+    "static/media/people-7.jpg": "/landingpage/static/media/people-7.83080b83a33049589627.jpg",
+    "static/media/people-8.jpg": "/landingpage/static/media/people-8.374a96a727bacac601a9.jpg",
+    "static/media/people-3.jpg": "/landingpage/static/media/people-3.0418fdd4522233f76d49.jpg",
+    "index.html": "/landingpage/index.html",
+    "main.d35cfad4.css.map": "/landingpage/static/css/main.d35cfad4.css.map",
+    "main.4d90ece5.js.map": "/landingpage/static/js/main.4d90ece5.js.map",
+    "787.66b477fd.chunk.js.map": "/landingpage/static/js/787.66b477fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35cfad4.css",
+    "static/js/main.4d90ece5.js"
+  ]
+}
